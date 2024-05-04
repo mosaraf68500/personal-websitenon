@@ -1,0 +1,27 @@
+.head{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 1200px;
+    text-align: center;
+    text-decoration: none;
+    transform: none;
+    transition: none;
+    margin: 0;
+    padding: 10px;
+}
+.form{
+    background-color: aqua;
+    height: 350px;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+.name,.number{
+    size: 50;
+    text-align: center;
+    
+}
+
+
+
